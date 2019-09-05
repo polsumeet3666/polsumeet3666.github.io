@@ -1,0 +1,69 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+body{
+    background-color:#fafafa;
+    padding: 1rem;
+}
+.container{
+    background-color: #fafafa;
+    padding: 2rem;
+    font-size: 1rem;
+}
+.row {
+    padding: 1rem;
+}
+.resume-title{
+    color: #2D728F;
+    font-size: 3em;
+}
+.resume-short-summary{
+    color: #928f8f;
+    font-size: 1.5em;
+}
+.resume-icons {
+    color:#2D728F;
+}
+.resume-links{
+    color:#000000;
+}
+.center-text{
+    text-align: center;
+}
+.text-align-right {
+    text-align: right
+}
+.border-top{
+    border-top: 1px solid lightgray;
+}
+.border-bottom{
+    border-bottom: 1px solid lightgray;
+}
+.border-left{
+    border-left: 1px solid lightgray;
+}
+.exp {
+    font-size: 0.9rem;
+    color: #928f8f
+}
+.item-heading-title{
+    font-size: 1rem;
+    font-weight: bold;
+}
+.cert-item-heading{
+    font-size: 1rem;
+    font-weight: bold;
+}
+.cert-item-content{
+    font-size: 0.9rem;
+    color: #928f8f
+}
+h4{
+    color: #2D728F;
+}
+.resume-long-summary{
+    padding-top: 1.5rem;
+}
+/* {
+    78CAD2 - blue
+} */
