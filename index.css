@@ -14,18 +14,19 @@ body{
     padding: 1rem;
 }
 .resume-title{
-    color: #2D728F;
+    color: #1c90c2;
     font-size: 3em;
 }
 .resume-short-summary{
-    color: #928f8f;
+    color: #3f3e3e;
     font-size: 1.5em;
 }
 .resume-icons {
-    color:#2D728F;
+    color:#1c90c2
 }
 .resume-links{
     color:#000000;
+    font-size: 0.9rem;
 }
 .center-text{
     text-align: center;
@@ -44,10 +45,10 @@ body{
 }
 .exp {
     font-size: 0.9rem;
-    color: #928f8f
+    color: #3f3e3e;
 }
 .item-heading-title{
-    font-size: 1rem;
+    font-size: 1.1rem;
     font-weight: bold;
 }
 .cert-item-heading{
@@ -56,14 +57,33 @@ body{
 }
 .cert-item-content{
     font-size: 0.9rem;
-    color: #928f8f
+    color: #3f3e3e;
 }
 h4{
     color: #2D728F;
 }
 .resume-long-summary{
     padding-top: 1.5rem;
+    color: #3f3e3e;
 }
-/* {
-    78CAD2 - blue
-} */
+.work-short-desc {
+    margin-left: 1rem;
+    margin-top: -1rem;
+    color: #3f3e3e;
+    font-size: 0.9rem;
+}
+
+ul li {
+    color: #3f3e3e;
+}
+
+.sub-skill-title {
+    font-weight: bold;
+}
+.sub-skills {
+    color: #3f3e3e;
+    font-size: 0.9rem;
+}
+.work-desc {
+    font-size: 0.9rem;
+}
